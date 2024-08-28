@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://clotchum.github.io/sitemap.html.gz
+Sitemap: https://clotchum.github.io/app/sitemap.html.gz
+Sitemap: https://clotchum.github.io/assets/sitemap.html.gz
+Sitemap: https://clotchum.github.io/css/sitemap.html.gz
+Sitemap: https://clotchum.github.io/includes/sitemap.html.gz
+Sitemap: https://clotchum.github.io/item/sitemap.html.gz
+Sitemap: https://clotchum.github.io/src/sitemap.html.gz
